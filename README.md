@@ -1,0 +1,1 @@
+# Blogs_Django_project
